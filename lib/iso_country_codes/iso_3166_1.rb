@@ -730,7 +730,7 @@ class IsoCountryCodes
     end
     class LAO < Code #:nodoc:
       self.numeric = %q{418}
-      self.name    = %q{Lao People's Democratic Republic}
+      self.name    = %q{Laos}
       self.alpha2  = %q{LA}
       self.alpha3  = %q{LAO}
     end
@@ -784,7 +784,7 @@ class IsoCountryCodes
     end
     class MAC < Code #:nodoc:
       self.numeric = %q{446}
-      self.name    = %q{Macao}
+      self.name    = %q{Macau}
       self.alpha2  = %q{MO}
       self.alpha3  = %q{MAC}
     end
