@@ -706,13 +706,13 @@ class IsoCountryCodes
     end
     class PRK < Code #:nodoc:
       self.numeric = %q{408}
-      self.name    = %q{Korea (Democratic People's Republic of)}
+      self.name    = %q{North Korea}
       self.alpha2  = %q{KP}
       self.alpha3  = %q{PRK}
     end
     class KOR < Code #:nodoc:
       self.numeric = %q{410}
-      self.name    = %q{Korea (Republic of)}
+      self.name    = %q{South Korea}
       self.alpha2  = %q{KR}
       self.alpha3  = %q{KOR}
     end
